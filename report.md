@@ -1,0 +1,3 @@
+- Create repository on GitHub site and create code files locally using VS code.
+- Connect my GitHub account to my Git account.
+- Initialized git
