@@ -1,3 +1,9 @@
-- Create repository on GitHub site and create code files locally using VS code.
-- Connect my GitHub account to my Git account.
-- Initialized git
+- Created repository on GitHub site and created code files locally using VS code.
+- Connected my GitHub account to my Git account.
+- Initialized GitHub.
+- Created and moved branch name to main.
+- Added all the required code files to be commited.
+- Checked the status.
+- Made first commit.
+- Created a new branch with added student details.
+- Added student number and student name.
